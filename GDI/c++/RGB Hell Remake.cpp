@@ -30,8 +30,8 @@ int main() {
     xx = sw;
     yy = sh;
 
-    HWND desktop = GetDC(0);
-    hdc = GetDC(desktop);
+    HWND desktop = GetDesktopWindow();  
+    hdc = GetDC(desktop);              
     desk = GetDC(0);
     desc = GetDC(0);
 
