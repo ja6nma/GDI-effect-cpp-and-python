@@ -2,4 +2,4 @@
 
 C++ = 24 effects
 
-Python 3.10.0 = 1 effect -_-
+Python (3.10.0) = 1 effect -_-
