@@ -37,7 +37,7 @@ int main() {
 
     SetProcessDPIAware();
 
-    std::wstring text = L"#neWWave";
+    std::wstring text = L"#DeadWave";
 
     std::this_thread::sleep_for(std::chrono::seconds(1));
 
@@ -100,3 +100,4 @@ int main() {
 
     return 0;
 }
+
